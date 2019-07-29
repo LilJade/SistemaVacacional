@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: LilJade(©THUNDER)
+Main-Class: Bienvenida
+X-COMMENT: Visiten la Geekipedia de Ernesto!
